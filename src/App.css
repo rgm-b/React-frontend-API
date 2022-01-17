@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+h2, h2, h3{
+    margin: 0;
+}
+
+button{
+    border: none;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}

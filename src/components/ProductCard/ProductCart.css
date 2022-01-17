@@ -1,0 +1,31 @@
+.single-product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.single-product__box-img{
+    height: 350px;
+    margin-bottom: 20px;
+}
+
+.single-product__img{
+    margin: 40px 0 0 0;
+    height: 100%;
+    max-width: 350px;
+}
+
+.single-product__params{
+    margin: 40px 30px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+.single-product__param{
+    margin-bottom: 10px;
+}
+
+.single-product__desc{
+    max-width: 600px;
+
+}
